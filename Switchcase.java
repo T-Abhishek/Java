@@ -1,5 +1,5 @@
 import java.util.Scanner;
-Public class Switchcase{
+public class Switchcase{
 public static void main(String args[]){
 int choice;
 System.out.println("Pick one: 1.Hi\t 2.Hey\t 3.Hello");
